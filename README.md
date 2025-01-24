@@ -12,7 +12,7 @@ My studies in computer science have led me to develop a passion for cybersecurit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Phishing analysis          | |
+| Phishing analysis          |<a href="https://github.com/estraughn/Phishing-lab">Phishing lab</a> |
 | Network traffic analysis | |
 | IDS/IPS         | |
 | Endpoint detection and response      | |
@@ -61,7 +61,7 @@ My studies in computer science have led me to develop a passion for cybersecurit
 </div>
 
 ## Projects
-- Phishing lab
+- <a href="https://github.com/estraughn/Phishing-lab">Phishing lab</a>
 - Network analysis lab
 - EDR lab
 - Threat intel lab
