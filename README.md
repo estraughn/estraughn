@@ -16,8 +16,8 @@ My studies in computer science have led me to develop a passion for cybersecurit
 | IDS/IPS         | |
 | Endpoint detection and response      | |
 | Log analysis                  | |
-| Threat intelligence
-| Digital forensics|
+| Threat intelligence   |<a href="https://github.com/estraughn/Threat-Intel">Threat Intel</a> | 
+| Digital forensics| |   
 
 ## Tools
 
@@ -77,5 +77,5 @@ My studies in computer science have led me to develop a passion for cybersecurit
 - <a href="https://github.com/estraughn/Phishing-lab">Phishing lab</a>
 - Network analysis lab
 - EDR lab
-- Threat intel lab
+- <a href="https://github.com/estraughn/Threat-Intel">Threat Intel</a>
 - Forensics lab
