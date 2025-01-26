@@ -14,8 +14,8 @@ My studies in computer science have led me to develop a passion for cybersecurit
 | Phishing analysis          |<a href="https://github.com/estraughn/Phishing-lab">Phishing lab</a> |
 | Network traffic analysis |<a href="https://github.com/estraughn/Network-analysis-lab">Network analysis lab</a> |
 | IDS/IPS         |<a href="https://github.com/estraughn/Network-analysis-lab">Network analysis lab</a> |
-| Endpoint detection and response      | |
-| Log analysis                  | |
+| Endpoint detection and response      |<a href="https://github.com/estraughn/EDR-lab">EDR lab</a> |
+| Log analysis                  |<a href="https://github.com/estraughn/Log-analysis-lab">Log analysis lab</a> |
 | Cyber Threat intelligence   |<a href="https://github.com/estraughn/Threat-Intel">CTI</a> | 
 | Documentation & reporting|<a href="https://github.com/estraughn/Documentation-reporting">IAR</a> |   
 
@@ -76,6 +76,7 @@ My studies in computer science have led me to develop a passion for cybersecurit
 ## Projects
 - <a href="https://github.com/estraughn/Phishing-lab">Phishing lab</a>
 - <a href="https://github.com/estraughn/Network-analysis-lab">Network analysis lab</a>
-- EDR lab
+- <a href="https://github.com/estraughn/EDR-lab">EDR lab</a>
+- <a href="https://github.com/estraughn/Log-analysis-lab">Log analysis lab</a>
 - <a href="https://github.com/estraughn/Threat-Intel">CTI</a>
 - <a href="https://github.com/estraughn/Documentation-reporting">IAR</a>
