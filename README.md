@@ -54,7 +54,7 @@ My studies in computer science have led me to develop a passion for cybersecurit
     
 </div>
 
-### Forensics
+### Digital Forensics
 <div>
     <img src="https://img.shields.io/badge/-Autopsy-FF6F00?&style=for-the-badge&logo=Autopsy&logoColor=white" />
     <img src="https://img.shields.io/badge/-Volatility-1F3B6E?&style=for-the-badge&logo=Volatility&logoColor=white" />
