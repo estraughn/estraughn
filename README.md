@@ -1,6 +1,6 @@
 # Hello, I'm Eric
 
-Aspiring cybersecurity professional transitioning from five years in healthcare. leveraging strong skills in incident response, data analysis, and cross-team collaboration. Experienced in phishing analysis, threat detection, vulnerability assessments, and securing both on-premises and cloud environments through hands-on projects and simulations. Passionate about safeguarding systems and eager to apply my technical skills to protect against evolving cyber threats.
+Aspiring cybersecurity professional transitioning from five years in healthcare. This is a collection of my cyber labs, projects, and academic documentation.
 
 ## Objective
 
