@@ -1,6 +1,6 @@
 # Hello, I'm Eric
 
-Aspiring cybersecurity professional transitioning from five years in healthcare. This is a collection of my cyber labs, projects, and academic documentation.
+Aspiring cybersecurity professional transitioning from five years in healthcare. This is a collection of my cyber labs with step by step guides, a list of tools I have experience with, My certifications either obtained or in progress, and a compilation of past academic documentation.
 
 ## Objective
 
