@@ -1,6 +1,6 @@
 # Hello, I'm Eric
 
-Aspiring cybersecurity professional transitioning from five years in healthcare. This is a collection of my cyber labs with step by step guides, a list of tools I have experience with, My certifications either obtained or in progress, and a compilation of past academic documentation.
+Cybersecurity professional with a BASc. degree in Cyber Operations from the University of Arizona. This is a portfolio of my experience and tools I have worked with in order to obtain a role as a SOC Analyst.
 
 ## Objective
 
@@ -28,6 +28,7 @@ My studies in computer science have led me to develop a passion for cybersecurit
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-FF4C4C?&style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-00A9E0?&style=for-the-badge&logo=Tenable&logoColor=white" />
 
 </div>
 
@@ -35,7 +36,6 @@ My studies in computer science have led me to develop a passion for cybersecurit
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys_EDR-D62C1F?&style=for-the-badge&logo=Qualys&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-00A9E0?&style=for-the-badge&logo=Tenable&logoColor=white" />
 
 
 </div>
@@ -67,8 +67,8 @@ My studies in computer science have led me to develop a passion for cybersecurit
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS_Certified_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-INFOSEC_Computer_Forensics_Specialization-5C6BC0?&style=for-the-badge&logo=ForensicScience&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-TCM_Security_Practical_SOC_Analyst_Associate-5A67D8?&style=for-the-badge&logo=TCMSecurity&logoColor=white" />
 
 </div>
