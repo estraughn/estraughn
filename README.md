@@ -36,6 +36,7 @@ My studies in computer science have led me to develop a passion for cybersecurit
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys_EDR-D62C1F?&style=for-the-badge&logo=Qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-5C5C5C?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
 
 
 </div>
