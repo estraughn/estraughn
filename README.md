@@ -62,6 +62,7 @@ My studies in computer science have led me to develop a passion for cybersecurit
     <img src="https://img.shields.io/badge/-FTK_Imager-0055B8?&style=for-the-badge&logo=AccessData&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active@_Disk_Editor-00A4B0?&style=for-the-badge&logo=ActiveDisk&logoColor=white" />
     <img src="https://img.shields.io/badge/-KAPE-002F6C?&style=for-the-badge&logo=Kroll&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Registry_Explorer-003366?&style=for-the-badge&logo=WindowsRegistry&logoColor=white" />
 
 </div>
  
