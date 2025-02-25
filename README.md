@@ -37,6 +37,7 @@ My studies in computer science have led me to develop a passion for cybersecurit
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys_EDR-D62C1F?&style=for-the-badge&logo=Qualys&logoColor=white" />
     <img src="https://img.shields.io/badge/-LimaCharlie-5C5C5C?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Sysinternals-0078D7?&style=for-the-badge&logo=Windows&logoColor=white" />
 
 
 </div>
@@ -63,6 +64,7 @@ My studies in computer science have led me to develop a passion for cybersecurit
     <img src="https://img.shields.io/badge/-Active@_Disk_Editor-00A4B0?&style=for-the-badge&logo=ActiveDisk&logoColor=white" />
     <img src="https://img.shields.io/badge/-KAPE-002F6C?&style=for-the-badge&logo=Kroll&logoColor=white" />
     <img src="https://img.shields.io/badge/-Registry_Explorer-003366?&style=for-the-badge&logo=WindowsRegistry&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ShellBags_Explorer-4B0082?&style=for-the-badge&logo=Windows&logoColor=white" />
 
 </div>
  
