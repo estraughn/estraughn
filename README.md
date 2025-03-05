@@ -17,10 +17,10 @@ My studies in computer science have led me to develop a passion for cybersecurit
 | Ethical hacking | <a href="https://github.com/estraughn/EDR-lab">EDR lab</a> |
 | Endpoint detection and response      |<a href="https://github.com/estraughn/EDR-lab">EDR lab</a> |
 | Log analysis                  |<a href="https://github.com/estraughn/Log-analysis-lab">Log analysis lab</a> |
-| Vulnerability management | |
-Threat hunting| |
 | Cyber Threat intelligence   |<a href="https://github.com/estraughn/Threat-Intel">CTI</a> | 
 | Documentation & reporting|<a href="https://github.com/estraughn/Documentation-reporting">IAR</a> |   
+| Vulnerability management | |
+Threat hunting| |
 
 ## Tools
 
