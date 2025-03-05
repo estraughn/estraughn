@@ -14,9 +14,11 @@ My studies in computer science have led me to develop a passion for cybersecurit
 | Phishing analysis          |<a href="https://github.com/estraughn/Phishing-lab">Phishing lab</a> |
 | Network traffic analysis |<a href="https://github.com/estraughn/Network-analysis-lab">Network analysis lab</a> |
 | IDS/IPS         |<a href="https://github.com/estraughn/Network-analysis-lab">Network analysis lab</a> |
-| Ethical Hacking | <a href="https://github.com/estraughn/EDR-lab">EDR lab</a> |
+| Ethical hacking | <a href="https://github.com/estraughn/EDR-lab">EDR lab</a> |
 | Endpoint detection and response      |<a href="https://github.com/estraughn/EDR-lab">EDR lab</a> |
 | Log analysis                  |<a href="https://github.com/estraughn/Log-analysis-lab">Log analysis lab</a> |
+| Vulnerability management | |
+Threat hunting| |
 | Cyber Threat intelligence   |<a href="https://github.com/estraughn/Threat-Intel">CTI</a> | 
 | Documentation & reporting|<a href="https://github.com/estraughn/Documentation-reporting">IAR</a> |   
 
@@ -53,6 +55,7 @@ My studies in computer science have led me to develop a passion for cybersecurit
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
     
 </div>
 
