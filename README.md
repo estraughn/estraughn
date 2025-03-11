@@ -14,7 +14,6 @@ My studies in computer science have led me to develop a passion for cybersecurit
 | Phishing analysis          |<a href="https://github.com/estraughn/Phishing-lab">Phishing lab</a> |
 | Network traffic analysis |<a href="https://github.com/estraughn/Network-analysis-lab">Network analysis lab</a> |
 | IDS/IPS         |<a href="https://github.com/estraughn/Network-analysis-lab">Network analysis lab</a> |
-| Ethical hacking | <a href="https://github.com/estraughn/EDR-lab">EDR lab</a> |
 | Endpoint detection and response      |<a href="https://github.com/estraughn/EDR-lab">EDR lab</a> |
 | Log analysis                  |<a href="https://github.com/estraughn/Log-analysis-lab">Log analysis lab</a> |
 | Cyber Threat intelligence   |<a href="https://github.com/estraughn/Threat-Intel">CTI</a> | 
@@ -78,6 +77,8 @@ Threat hunting| |
 <img src="https://img.shields.io/badge/-INFOSEC_Computer_Forensics_Specialization-5C6BC0?&style=for-the-badge&logo=ForensicScience&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-TCM_Security_Practical_SOC_Analyst_Associate-5A67D8?&style=for-the-badge&logo=TCMSecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/-FEMA_ICS--100-2C5E9E?&style=for-the-badge&logo=Government&logoColor=white" />
+
 
 </div>
 
