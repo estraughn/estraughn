@@ -18,8 +18,6 @@ My studies in computer science have led me to develop a passion for cybersecurit
 | Log analysis                  |<a href="https://github.com/estraughn/Log-analysis-lab">Log analysis lab</a> |
 | Cyber Threat intelligence   |<a href="https://github.com/estraughn/Threat-Intel">CTI</a> | 
 | Documentation & reporting|<a href="https://github.com/estraughn/Documentation-reporting">IAR</a> |   
-| Vulnerability management | |
-Threat hunting| |
 
 ## Tools
 
